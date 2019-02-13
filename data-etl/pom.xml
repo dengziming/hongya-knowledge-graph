@@ -8,15 +8,6 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>data-etl</artifactId>
     <inceptionYear>2008</inceptionYear>
-    <properties>
-        <scala.version>2.11.7</scala.version>
-        <spark.version>2.1.0</spark.version>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <typesafe-config.version>1.2.1</typesafe-config.version>
-        <slf4j-log4j12.version>1.7.16</slf4j-log4j12.version>
-        <log4j.version>1.2.17</log4j.version>
-    </properties>
 
     <profiles>
         <profile>

@@ -13,10 +13,15 @@
         <module>data-graph</module>
     </modules>
 
-    <properties>
-
-        <scala.version>2.7.0</scala.version>
-    </properties>
+  <properties>
+    <scala.version>2.11.12</scala.version>
+    <spark.version>2.2.0</spark.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <typesafe-config.version>1.2.1</typesafe-config.version>
+    <slf4j-log4j12.version>1.7.16</slf4j-log4j12.version>
+    <log4j.version>1.2.17</log4j.version>
+  </properties>
 
 
 
